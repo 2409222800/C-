@@ -1,0 +1,14 @@
+﻿  01C++书写Helloworld.cpp
+  02注释.cpp
+C:\Users\q'q\代码\Project6\Project6\02注释.cpp(1,1): warning C4335: 检测到 Mac 文件格式: 请将源文件转换为 DOS 格式或 UNIX 格式
+C:\Users\q'q\代码\Project6\Project6\02注释.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  03 变量.cpp
+  04常量.cpp
+  05标识符命名规则.cpp
+  06数据的输入.cpp
+  07pig weigh.cpp
+  08 guess number.cpp
+C:\Users\q'q\代码\Project6\Project6\08 guess number.cpp(8,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+C:\Users\q'q\代码\Project6\Debug\Project6.exe : fatal error LNK1120: 1 个无法解析的外部命令

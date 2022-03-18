@@ -1,0 +1,3 @@
+﻿16函数的分文件编写.obj : error LNK2005: "void __cdecl swap(int,int)" (?swap@@YAXHH@Z) 已经在 14double dimensional array二维数组.obj 中定义
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+C:\Users\q'q\代码\Project6\x64\Debug\Project6.exe : fatal error LNK1120: 1 个无法解析的外部命令
